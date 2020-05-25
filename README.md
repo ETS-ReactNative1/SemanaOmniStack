@@ -1,6 +1,3 @@
-## Aplicação desenvolvida durante a Semana OmniStack 11.0 
-
-
 <h1 align="center">
     <img src="frontend/src/assets/logo.svg" width="250px" />
 </h1>
